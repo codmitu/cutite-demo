@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/cutite-demo/static/css/main.9c01b4f2.chunk.css",
-    "main.js": "/cutite-demo/static/js/main.aa868764.chunk.js",
-    "main.js.map": "/cutite-demo/static/js/main.aa868764.chunk.js.map",
+    "main.css": "/cutite-demo/static/css/main.1fd318e4.chunk.css",
+    "main.js": "/cutite-demo/static/js/main.2040a741.chunk.js",
+    "main.js.map": "/cutite-demo/static/js/main.2040a741.chunk.js.map",
     "runtime-main.js": "/cutite-demo/static/js/runtime-main.649c5656.js",
     "runtime-main.js.map": "/cutite-demo/static/js/runtime-main.649c5656.js.map",
-    "static/js/2.c9eadc1f.chunk.js": "/cutite-demo/static/js/2.c9eadc1f.chunk.js",
-    "static/js/2.c9eadc1f.chunk.js.map": "/cutite-demo/static/js/2.c9eadc1f.chunk.js.map",
+    "static/js/2.7ca327e3.chunk.js": "/cutite-demo/static/js/2.7ca327e3.chunk.js",
+    "static/js/2.7ca327e3.chunk.js.map": "/cutite-demo/static/js/2.7ca327e3.chunk.js.map",
     "index.html": "/cutite-demo/index.html",
-    "static/css/main.9c01b4f2.chunk.css.map": "/cutite-demo/static/css/main.9c01b4f2.chunk.css.map",
-    "static/js/2.c9eadc1f.chunk.js.LICENSE.txt": "/cutite-demo/static/js/2.c9eadc1f.chunk.js.LICENSE.txt",
-    "static/media/logo.4dbb8893.png": "/cutite-demo/static/media/logo.4dbb8893.png"
+    "static/css/main.1fd318e4.chunk.css.map": "/cutite-demo/static/css/main.1fd318e4.chunk.css.map",
+    "static/js/2.7ca327e3.chunk.js.LICENSE.txt": "/cutite-demo/static/js/2.7ca327e3.chunk.js.LICENSE.txt",
+    "static/media/bg1.8fffdc8d.png": "/cutite-demo/static/media/bg1.8fffdc8d.png",
+    "static/media/cover.c1c9a0be.jpg": "/cutite-demo/static/media/cover.c1c9a0be.jpg",
+    "static/media/funky-lines.3d7f30b8.png": "/cutite-demo/static/media/funky-lines.3d7f30b8.png",
+    "static/media/img1.486480f3.jpg": "/cutite-demo/static/media/img1.486480f3.jpg",
+    "static/media/img2.2fd24e80.jpg": "/cutite-demo/static/media/img2.2fd24e80.jpg",
+    "static/media/knife1.63e2a64e.png": "/cutite-demo/static/media/knife1.63e2a64e.png",
+    "static/media/logo.4dbb8893.png": "/cutite-demo/static/media/logo.4dbb8893.png",
+    "static/media/overlay.03d4b156.mp4": "/cutite-demo/static/media/overlay.03d4b156.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.649c5656.js",
-    "static/js/2.c9eadc1f.chunk.js",
-    "static/css/main.9c01b4f2.chunk.css",
-    "static/js/main.aa868764.chunk.js"
+    "static/js/2.7ca327e3.chunk.js",
+    "static/css/main.1fd318e4.chunk.css",
+    "static/js/main.2040a741.chunk.js"
   ]
 }
