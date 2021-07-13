@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/cutite-demo/static/css/main.1fd318e4.chunk.css",
-    "main.js": "/cutite-demo/static/js/main.9bf23617.chunk.js",
-    "main.js.map": "/cutite-demo/static/js/main.9bf23617.chunk.js.map",
+    "main.css": "/cutite-demo/static/css/main.5184ab14.chunk.css",
+    "main.js": "/cutite-demo/static/js/main.2165983c.chunk.js",
+    "main.js.map": "/cutite-demo/static/js/main.2165983c.chunk.js.map",
     "runtime-main.js": "/cutite-demo/static/js/runtime-main.649c5656.js",
     "runtime-main.js.map": "/cutite-demo/static/js/runtime-main.649c5656.js.map",
-    "static/js/2.084567e2.chunk.js": "/cutite-demo/static/js/2.084567e2.chunk.js",
-    "static/js/2.084567e2.chunk.js.map": "/cutite-demo/static/js/2.084567e2.chunk.js.map",
+    "static/js/2.fa546632.chunk.js": "/cutite-demo/static/js/2.fa546632.chunk.js",
+    "static/js/2.fa546632.chunk.js.map": "/cutite-demo/static/js/2.fa546632.chunk.js.map",
     "index.html": "/cutite-demo/index.html",
-    "static/css/main.1fd318e4.chunk.css.map": "/cutite-demo/static/css/main.1fd318e4.chunk.css.map",
-    "static/js/2.084567e2.chunk.js.LICENSE.txt": "/cutite-demo/static/js/2.084567e2.chunk.js.LICENSE.txt",
+    "static/css/main.5184ab14.chunk.css.map": "/cutite-demo/static/css/main.5184ab14.chunk.css.map",
+    "static/js/2.fa546632.chunk.js.LICENSE.txt": "/cutite-demo/static/js/2.fa546632.chunk.js.LICENSE.txt",
+    "static/media/about-bg.d64a1749.jpg": "/cutite-demo/static/media/about-bg.d64a1749.jpg",
+    "static/media/avatar1.9ac06034.jpg": "/cutite-demo/static/media/avatar1.9ac06034.jpg",
+    "static/media/avatar2.4e923c45.jpg": "/cutite-demo/static/media/avatar2.4e923c45.jpg",
+    "static/media/avatar3.b645a6b4.jpg": "/cutite-demo/static/media/avatar3.b645a6b4.jpg",
     "static/media/bg5.3f41cf35.png": "/cutite-demo/static/media/bg5.3f41cf35.png",
     "static/media/cliff.a6e7435e.png": "/cutite-demo/static/media/cliff.a6e7435e.png",
     "static/media/clouds1.54c8cee2.png": "/cutite-demo/static/media/clouds1.54c8cee2.png",
@@ -22,20 +26,27 @@
     "static/media/img1.486480f3.jpg": "/cutite-demo/static/media/img1.486480f3.jpg",
     "static/media/img2.2fd24e80.jpg": "/cutite-demo/static/media/img2.2fd24e80.jpg",
     "static/media/knife1.63e2a64e.png": "/cutite-demo/static/media/knife1.63e2a64e.png",
+    "static/media/left-arrow.9170bb64.svg": "/cutite-demo/static/media/left-arrow.9170bb64.svg",
     "static/media/logo.4dbb8893.png": "/cutite-demo/static/media/logo.4dbb8893.png",
     "static/media/overlay.03d4b156.mp4": "/cutite-demo/static/media/overlay.03d4b156.mp4",
     "static/media/pic1.382439ca.jpg": "/cutite-demo/static/media/pic1.382439ca.jpg",
     "static/media/pic2.a1d922d6.jpg": "/cutite-demo/static/media/pic2.a1d922d6.jpg",
     "static/media/pic3.d2bd490f.jpg": "/cutite-demo/static/media/pic3.d2bd490f.jpg",
     "static/media/pic4.b30eadfa.jpg": "/cutite-demo/static/media/pic4.b30eadfa.jpg",
+    "static/media/profile-img.f88fde61.jpg": "/cutite-demo/static/media/profile-img.f88fde61.jpg",
     "static/media/roots.7a181942.png": "/cutite-demo/static/media/roots.7a181942.png",
     "static/media/sky.474a05c7.jpg": "/cutite-demo/static/media/sky.474a05c7.jpg",
-    "static/media/sun2.631acd16.png": "/cutite-demo/static/media/sun2.631acd16.png"
+    "static/media/sun2.631acd16.png": "/cutite-demo/static/media/sun2.631acd16.png",
+    "static/media/w1.2347c246.jpg": "/cutite-demo/static/media/w1.2347c246.jpg",
+    "static/media/w2.edd5953a.jpg": "/cutite-demo/static/media/w2.edd5953a.jpg",
+    "static/media/w3.b29217da.jpg": "/cutite-demo/static/media/w3.b29217da.jpg",
+    "static/media/w4.71534868.jpg": "/cutite-demo/static/media/w4.71534868.jpg",
+    "static/media/work-img.527fa397.jpg": "/cutite-demo/static/media/work-img.527fa397.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.649c5656.js",
-    "static/js/2.084567e2.chunk.js",
-    "static/css/main.1fd318e4.chunk.css",
-    "static/js/main.9bf23617.chunk.js"
+    "static/js/2.fa546632.chunk.js",
+    "static/css/main.5184ab14.chunk.css",
+    "static/js/main.2165983c.chunk.js"
   ]
 }
