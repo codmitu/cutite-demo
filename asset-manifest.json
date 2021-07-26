@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cutite-demo/static/css/main.87063750.chunk.css",
-    "main.js": "/cutite-demo/static/js/main.afa491dd.chunk.js",
-    "main.js.map": "/cutite-demo/static/js/main.afa491dd.chunk.js.map",
+    "main.js": "/cutite-demo/static/js/main.39edce7c.chunk.js",
+    "main.js.map": "/cutite-demo/static/js/main.39edce7c.chunk.js.map",
     "runtime-main.js": "/cutite-demo/static/js/runtime-main.649c5656.js",
     "runtime-main.js.map": "/cutite-demo/static/js/runtime-main.649c5656.js.map",
     "static/js/2.63be3809.chunk.js": "/cutite-demo/static/js/2.63be3809.chunk.js",
@@ -63,6 +63,6 @@
     "static/js/runtime-main.649c5656.js",
     "static/js/2.63be3809.chunk.js",
     "static/css/main.87063750.chunk.css",
-    "static/js/main.afa491dd.chunk.js"
+    "static/js/main.39edce7c.chunk.js"
   ]
 }
