@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cutite-demo/static/css/main.1f215fbc.chunk.css",
-    "main.js": "/cutite-demo/static/js/main.899bb1c7.chunk.js",
-    "main.js.map": "/cutite-demo/static/js/main.899bb1c7.chunk.js.map",
+    "main.js": "/cutite-demo/static/js/main.b125d91c.chunk.js",
+    "main.js.map": "/cutite-demo/static/js/main.b125d91c.chunk.js.map",
     "runtime-main.js": "/cutite-demo/static/js/runtime-main.649c5656.js",
     "runtime-main.js.map": "/cutite-demo/static/js/runtime-main.649c5656.js.map",
-    "static/js/2.5f5e5882.chunk.js": "/cutite-demo/static/js/2.5f5e5882.chunk.js",
-    "static/js/2.5f5e5882.chunk.js.map": "/cutite-demo/static/js/2.5f5e5882.chunk.js.map",
+    "static/js/2.871398a2.chunk.js": "/cutite-demo/static/js/2.871398a2.chunk.js",
+    "static/js/2.871398a2.chunk.js.map": "/cutite-demo/static/js/2.871398a2.chunk.js.map",
     "index.html": "/cutite-demo/index.html",
     "static/css/main.1f215fbc.chunk.css.map": "/cutite-demo/static/css/main.1f215fbc.chunk.css.map",
-    "static/js/2.5f5e5882.chunk.js.LICENSE.txt": "/cutite-demo/static/js/2.5f5e5882.chunk.js.LICENSE.txt",
+    "static/js/2.871398a2.chunk.js.LICENSE.txt": "/cutite-demo/static/js/2.871398a2.chunk.js.LICENSE.txt",
     "static/media/avatar1.9ac06034.jpg": "/cutite-demo/static/media/avatar1.9ac06034.jpg",
     "static/media/avatar2.4e923c45.jpg": "/cutite-demo/static/media/avatar2.4e923c45.jpg",
     "static/media/avatar3.b645a6b4.jpg": "/cutite-demo/static/media/avatar3.b645a6b4.jpg",
@@ -61,8 +61,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.649c5656.js",
-    "static/js/2.5f5e5882.chunk.js",
+    "static/js/2.871398a2.chunk.js",
     "static/css/main.1f215fbc.chunk.css",
-    "static/js/main.899bb1c7.chunk.js"
+    "static/js/main.b125d91c.chunk.js"
   ]
 }
